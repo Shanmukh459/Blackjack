@@ -1,5 +1,9 @@
 # Blackjack Game
 
+- If you like playing Black jack this will be a good application to poke around
+- Tech used: HTML, CSS, JavaScript
+- Deployed at: https://shanmukh-blackjack.vercel.app/
+
 Quick start:
 
 ```
